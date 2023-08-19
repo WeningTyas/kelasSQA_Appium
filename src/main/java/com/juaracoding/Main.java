@@ -18,6 +18,6 @@ public class Main {
         URL url = new URL("http://127.0.0.1:4723/wd/hub");
         AndroidDriver driver = new AndroidDriver(url, dc);
         System.out.println("Appium Online");
-
+        /// Ini settingan awal aja kog ///
     }
 }
